@@ -3,5 +3,5 @@ module.exports = {
   "globPatterns": [
     "**/*.{png,html,json}"
   ],
-  "swDest": "workbox-config.js"
+  "swDest": "public/sw.js"
 };
